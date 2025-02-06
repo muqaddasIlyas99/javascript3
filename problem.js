@@ -71,25 +71,25 @@
 // console.log(type5);
 // cosole.log(typeof type5);
       // coverting number into string
-let price = 5;
-console.log(price);
-console.log(typeof price);
-let NewType = String(price);
-console.log(typeof NewType);
+// let price = 5;
+// console.log(price);
+// console.log(typeof price);
+// let NewType = String(price);
+// console.log(typeof NewType);
     //   Boolean converting into string
-let isTrue = true;
-console.log(isTrue);
-console.log(typeof isTrue);
-let NewType1 =String(isTrue);
-console.log(NewType1);
-console.log(typeof NewType1);
+// let isTrue = true;
+// console.log(isTrue);
+// console.log(typeof isTrue);
+// let NewType1 =String(isTrue);
+// console.log(NewType1);
+// console.log(typeof NewType1);
     //   string converting into number
-let age = "hello";
-console.log(age);
-console.log(typeof age);
-let NewType2 = Number(age);
-console.log(NewType2);
-console.log(typeof NewType2);
-let price1 = "100" ; 
-console.log(price1);
-console.log(typeof price1);
+// let age = "hello";
+// console.log(age);
+// console.log(typeof age);
+// let NewType2 = Number(age);
+// console.log(NewType2);
+// console.log(typeof NewType2);
+// let price1 = "100" ; 
+// console.log(price1);
+// console.log(typeof price1);
